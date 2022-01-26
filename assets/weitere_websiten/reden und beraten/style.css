@@ -1,0 +1,49 @@
+/* Das ist CSS */
+
+body {
+    align-items: center;
+}
+
+#Automobilkaufmann_frau {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}
+
+#Kaufmann_frau {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}
+
+#Dolmetschen {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}
+
+#Verkäufer_in {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}

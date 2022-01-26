@@ -1,0 +1,23 @@
+/* Das ist CSS */
+
+#Maler {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}
+
+#Musiker {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}

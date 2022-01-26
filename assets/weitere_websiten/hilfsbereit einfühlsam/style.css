@@ -1,0 +1,79 @@
+/* Das ist CSS */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.page-content {
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#altenpfleger_in {
+    text-align: center;
+}
+
+#title_altenpfleger_in {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}
+
+
+
+
+#title_erzieherin {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}
+
+
+#title_augenoptiker {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}
+
+
+
+#title_hebamme {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}
+
+
+#title_psychologen {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}

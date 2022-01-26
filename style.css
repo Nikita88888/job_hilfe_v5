@@ -1,0 +1,94 @@
+/* * {
+    margin: 0;
+    padding: 0;
+}
+
+/*Menu start
+
+.main .menu .startseite_btn {
+    border-radius: 10px;
+    color: white;
+    border-color: #fff;
+} */
+
+/* Das ist CSS */
+
+#a {
+    color: #fff;
+    border: solid;
+    border-radius: 45px;
+    border-color: white;
+    padding: 20px 25px;
+    background: #007bff;
+    box-shadow: 0 0 20px white;
+    transition: all 500ms ease;
+    text-decoration: none;
+}
+
+#a:hover {
+    border-color: #007bff;
+    background: white;
+    color: #007bff;
+    box-shadow: 0 0 20px #007bff;
+}
+
+.mdl-layout__drawer nav #handwerklich_geschickt i {
+    display: none;
+    position: fixed;
+    font-size: 25px;
+}
+
+
+img {
+    width: 450px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #d4d4d4;
+}
+
+
+.btns {
+    text-align: center;
+    margin-top: 20px;
+    border-width: 2px;
+    padding: 20px;
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    transition: all ease 1s;
+    background: #f8f8f8;
+    box-shadow: 0 0 10px #d4d4d4;
+}
+
+.btns:hover {
+    text-align: center;
+    margin-top: 20px;
+    border-width: 2px;
+    padding: 25px;
+    width: 280px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    transition: all ease 1s;
+    background: #f8f8f8;
+    box-shadow: 0 0 25px #d4d4d4;
+}
+
+
+@media (max-width: 700px) {
+    img {
+        width: 250px;
+        height: 150px;
+        border-radius: 10px;
+        margin-bottom: 5px;
+    }
+}

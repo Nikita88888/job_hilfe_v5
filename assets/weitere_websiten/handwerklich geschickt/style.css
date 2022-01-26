@@ -1,0 +1,36 @@
+/* Das ist CSS */
+
+#title_architektur {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}
+
+
+#title_bauingenieurwesen {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}
+
+
+#title_bauzeichner {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}

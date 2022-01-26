@@ -1,0 +1,56 @@
+/* Das ist CSS */
+
+#Augenoptiker {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}
+
+#Fachkraft_für_Lagerlogistik {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}
+
+#Rechtsanwaltsfachangestellter {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}
+
+#Studiengang_Maschinenbau {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}
+
+#Physiker {
+    color: black;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom: 4px solid black;
+    padding-bottom: 2px;
+    width: 50%;
+    transform: translate(50%, 0);
+    text-align: center;
+}
